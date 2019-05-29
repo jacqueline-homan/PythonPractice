@@ -18,3 +18,6 @@ fo.close()
 
 # Renaming the file
 os.rename("test1.txt", "test2.txt")
+
+# Copying the contents of one file to another file
+os.popen('cp test2.txt oops.txt')
