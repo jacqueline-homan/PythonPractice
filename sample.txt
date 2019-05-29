@@ -1,0 +1,2 @@
+My first text file R/W program in Python.
+This is cool!
